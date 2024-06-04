@@ -41,7 +41,7 @@
 .link a {
   color: var(--color-text);
   text-decoration: none;
-  font-size: 30px;
+  font-size: 18px;
   font-weight: 400;
   letter-spacing: 1.5px;
 }
@@ -58,7 +58,7 @@
     align-items: center;
   }
 
-  .links {
+  /* .links {
     align-items: center;
-  }
+  } */
 }

@@ -12,19 +12,21 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Angular",
+    "imageSrc": "skills/Angular.png"
+  },
+
+ 
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/Javascript.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/Typescript.png"
+  },
+  {
     "title": "Node",
     "imageSrc": "skills/node.png"
-  },
-  {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
   }
 ]

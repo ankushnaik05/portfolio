@@ -12,9 +12,16 @@ export const Hero = () => {
           I'm a Front-End developer with 2.7 years of experience using React and
           Angulas.JS. Reach out if you'd like to learn more!
         </p>
+
+        <div className={styles.buttonContainer}>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
+        <a href="/assets/hero/ANKUSH_NAIK_RESUME.pdf" target="_blank" className={styles.contactBtn}>
+          My Resume
+        </a>
+
+        </div>
       </div>
       <img
         src={getImageUrl("hero/profile.png")}

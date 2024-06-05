@@ -17,9 +17,9 @@ export const Hero = () => {
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
-        <a href="/assets/hero/ANKUSH_NAIK_RESUME.pdf" target="_blank" className={styles.contactBtn}>
-          My Resume
-        </a>
+        <a href="https://drive.google.com/file/d/1c_LHY8QQC_xuPHwPyk6hgul8nIw8veNQ/view" target="_blank" className={styles.contactBtn}>
+            My Resume
+          </a>
 
         </div>
       </div>
